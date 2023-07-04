@@ -9,7 +9,7 @@ const Footer = () => {
                 background: `url(${footer})`,
                 backgroundSize: 'cover'
             }}
-            className=" p-10   text-[#3A4256]">
+            className="p-10 mt-20   text-[#3A4256]">
             <div className='footer'>
                 <div>
                     <span className="footer-title">Services</span>
